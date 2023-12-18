@@ -1,0 +1,6 @@
+tensorflow
+numpy
+keras
+pytesseract
+pandas
+opencv-python-headless
